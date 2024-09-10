@@ -1,6 +1,6 @@
 # AI for Medical Data Security
 
-![Project Banner](https://github.com/Rimadaqch/Ai_Medical_Security/blob/main/1697342274822.jpeg)
+[Project Banner](https://github.com/Rimadaqch/Ai_Medical_Security/blob/main/1697342274822.jpeg)
 
 
 ## Overview
