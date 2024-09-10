@@ -1,6 +1,6 @@
 # AI for Medical Data Security
 
-![Project Banner](https://example.com/your-image.jpg)
+![Project Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fortanix.com%2Fblog%2Fdata-privacy-integrity-challenges-for-securing-ai-in-healthcare&psig=AOvVaw15V-PAPyNA9TXziJIBZbeO&ust=1726069392617000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLChxOHbuIgDFQAAAAAdAAAAABAJ)
 
 ## Overview
 
