@@ -1,5 +1,4 @@
 # AI for Medical Data Security
-![Project Banner](file:///home/rima/Downloads/1697342274822.jpeg)
 
 ## Overview
 
